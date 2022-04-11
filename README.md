@@ -4,9 +4,6 @@ This will be the repository where i'll upload all my python progress:
   - amazonBot:
     - A little bot i was trying to code to track amazon prices.
       - Incomplete.
-  - automateTheBoringStuff:
-    - All the code in this repository is from a course I was studying.
-      - Incomplete.
   - Calculator:
     - A little calculator project I'm using to learn tkinter in python.
       - Incomplete.
