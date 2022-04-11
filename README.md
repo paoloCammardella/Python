@@ -13,7 +13,7 @@ This will be the repository where i'll upload all my python progress:
     - Starting from 0 with openCV. 
       - Will never be completed.
   - Socket:
-    - Learning socket programming in Python
+    - Learning socket programming in Python.
       - Incomplete.  
   - TelegramBot:
     - Learning telegram bot library.
