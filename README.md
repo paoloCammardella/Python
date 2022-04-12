@@ -1,18 +1,18 @@
 # Python
-This will be the repository where i'll upload all my python progress:
+This will be the repository where i'll upload all my Python progress, but not all my Python projects:
 ## Projects
-  - amazonBot:
+  ### amazonBot:
     - A little bot i was trying to code to track amazon prices.
       - Incomplete.
-  - Calculator:
+  ### Calculator:
     - A little calculator project I'm using to learn tkinter in python.
       - Incomplete.
-  - openCV:
+  ### openCV:
     - Starting from 0 with openCV. 
       - Will never be completed.
-  - Socket:
+  ### Socket:
     - Learning socket programming in Python.
       - Incomplete.  
-  - TelegramBot:
+  ### TelegramBot:
     - Learning telegram bot library.
       - Incomplete.  
